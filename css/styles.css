@@ -28,7 +28,7 @@ p {
 /* Containers */
 
 .container-fluid{
-  padding: 7% 15%;
+  padding: 2% 15% 7% 15%;
 }
 
 /* Sections */
@@ -119,9 +119,22 @@ p {
   background-color: #ef8172;
 }
 
-.testimonial-text {
-  font-size: 5rem;
+.testimonial-text1 {
+  font-size: 8rem;
   line-height: 1.5;
+}
+
+.testimonial-text2 {
+    font-size: 3rem;
+    line-height: 1;
+}
+
+.testimonial-text3 {
+    font-size: 2rem;
+    line-height: 1;
+    font-style: oblique;
+    color: darkblue;
+    background-color: white;
 }
 
 .testimonial-image {
@@ -182,7 +195,7 @@ p {
 .display-date {
     text-align: center;
     margin-bottom: 10px;
-    font-size: 1.6rem;
+    font-size: 1rem;
     font-weight: 600;
     font-family: "Lato", sans-serif;
     background: #272727;

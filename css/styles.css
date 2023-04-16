@@ -137,12 +137,17 @@ p {
     background-color: white;
 }
 
-.testimonial-image {
+.testimonial-image1 {
   width: 10%;
   border-radius: 20%;
   margin: 20px;
 }
 
+.testimonial-image2 {
+    width: 30%;
+    border-radius: 10%;
+    margin: 20px;
+}
 
 #press {
   background-color: #ef8172;

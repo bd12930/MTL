@@ -89,6 +89,10 @@
                 </div>
 
                 <div class="carousel-item container-fluid">
+                    <img class="testimonial-image2" id="gambar3" src="http://bishun.strokeorder.info/characters/194723.gif" alt="xiǎn">
+                </div>
+
+                <div class="carousel-item container-fluid" data-interval="6000">
                     <h2 class="testimonial-text2">“Next Word, Pls standby...”</h2>
                     <img class="" src="images/Leade-Belajar-bahasa-Mandarin.jpg" alt="mandarin">
                     <em>—Restart</em>
@@ -200,10 +204,13 @@
     
     document.getElementById('kanji1').innerHTML = kata_baru[x].kanji;
     document.getElementById('kanji2').innerHTML = kata_baru[x].meaning;
+
     let element1 = document.getElementById("gambar1");
     element1.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
     let element2 = document.getElementById("gambar2");
     element2.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
+    let element3 = document.getElementById("gambar3");
+    element3.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
 
     document.getElementById('pinyin1').innerHTML = kata_baru[x].pinyin;
     document.getElementById('pinyin2').innerHTML = kata_baru[x].pinyin;

@@ -4,7 +4,7 @@
 生词,914482,Shēngcí,new words,我 每天 预习 生词
 课文,456826,Kèwén,text,我 每天 预习 生词，读 课文
 唱,990425,Chàng,sing,我 会 唱（朋友）这首歌
-大家,780286,Dàjiā,everyone,我 觉得 大家 在一起 学习 汉语， 都 是 好 朋友 (friends)
+大家,780286,Dàjiā,everyone,我 觉得 大家 在一起 学习 汉语  都 是 好 朋友 (friends)
 歌,758805,Gē,song,我 会 唱（朋友）这首歌
 流利,962007,Liúlì,fluent,说得 很 流利
 准,903520,Zhǔn,standard / accurate,我 发音 发得 不 太准
@@ -14,24 +14,25 @@
 口语,817959,Kǒuyǔ,speaking,我 口语 不错(good)
 词,914482,cí,word,我 每天 预习 生词
 得,966665,Dé,(used after a verb),说得 很 流利
-发音,604374,Fāyīn,pronunciation,我 发音 发得 不 太 准(accurate)
+得,966665,Déi,ought to,应该(should) -> 得(should) -> 必须(must)
+发音,604374,Fāyīn,pronunce/pronunciation,我 发音(noun) 发得 不 太 准(accurate)
 快,426280,Kuài,fast,你 的 班，谁 跑 最 (most)  快？
 听力,535071,Tīnglì,listening,还 听汉 语歌 练习 听力
 有意思,885251,Yǒuyìsi,interesting,我 觉得 汉语 很 有意思
 最,791004,zuì,most,汉字 最 难
-怎么了,910418,Zěnmele,whats wrong,你怎么了
-感冒,78779,Gǎnmào,cold/flu,我感冒了
-头疼,608242,Tóuténg,headache,我的头不疼
+怎么了,910418,Zěnmele,whats wrong,你 怎么了
+感冒,78779,Gǎnmào,cold/flu,我 感冒 了
+头疼,608242,Tóuténg,headache,我 的 头 不疼
 流,962007,Liú,flow,说得 很 流利
 鼻涕,152657,Bítì,nasal mucus,流 鼻涕
 咳嗽,721210,Késòu,cough,我 在 咳嗽
-嗓子,752648,Sǎngzi,throat,我咳嗽了, 嗓子 也很 疼(hurt)
+嗓子,752648,Sǎngzi,throat,我 咳嗽 了  嗓子 也很 疼(hurt)
 发烧,896040,Fāshāo,fever,Jacob 发烧了
 大夫,156303,Dàfū,doctor,大夫 说 我 很好
-热,156303,Rè,hot,今天 天气 很热
+热,666218,Rè,hot,今天 天气 很热
 量,683130,liàng,measure,我量 一下 你的 体温
 体温,70254,Tǐwēn,body temperature,她的 体温 多高(how high)?
-度,692896,Dù,degree/celcius,我的体温是36度5
+度,692896,Dù,degree/celcius,我 的 体温 是 36度5
 打针,616925,Dǎzhēn,inject,医生 说 弟弟 不用 打针
 开,637764,Kāi,open (>< 关),医生 开药(to prescribe)
 药,649940,Yào,medicine,我 不 喜欢 吃 药(medicine)
@@ -40,17 +41,42 @@
 舒服,715227,Shūfú,comfortable,这张 床(bed) 很 舒服
 出生,884759,Chūshēng,born,你什么时候出生?
 岁,174028,Suì,age,我 今年 12岁(kids).多大了(adult).多大年纪了(senior).
-属,430928,shǔ,shio/chinese zodiak,你属什么
+属,430928,shǔ,shio/chinese zodiac,你 属 什么
 天,166547,Tiān,day/sky,(past)前 - 昨 <- 今天 -> 明 - 后(future)
 月,143091,Yuè,month/moon,(past)上个 <- 这个月 -> 下个(future)
 年,326869,Nián,year,(past)去 <- 今年 -> 明(future)
-毕业,667423,Bìyè,graduate,你 好好 学习, 所以(so) 会 毕业 好
+毕业,667423,Bìyè,graduate,你 好好 学习  所以(so) 会 毕业 好
 最,791004,zuì,most,Jacob 是 妈妈 最小 的 孩子
 更,327230,Gēng,more,Jacob 比 Peter 更小
 比,609006,bǐ,compare,Niko 比 Kito 更大
 胖,947824,Pàng,fat(><瘦),大象很胖
-瘦,818939,shòu,skinny/thin(><胖),猫很瘦
-重,126200,Zhòng,heavy(><轻),我 100 公斤了, 很重了
-轻,754743,Qīng,light(><重),她 60 公斤，很轻
+瘦,818939,shòu,skinny/thin(><胖),猫 很 瘦
+重,126200,Zhòng,heavy(><轻),我 100 公斤了  很重了
+轻,754743,Qīng,light(><重),她 60 公斤 很轻
 高,143379,Gāo,tall(><矮),公共汽车 比 汽车 更高
 矮,290522,Ǎi,short (for people),妈妈 比 爸爸 更矮
+件,263007,Jiàn,m.w cloth,我要 挑 1件 衣服
+衣服,512051,Yīfú,cloth,我要 挑 1件 衣服
+样子,575939,Yàngzi,style/design/fashion,这 样子 不错(good)
+式,855675,Shì,style,中式  西式  印尼 式  旗袍(cheong-sam)  T恤(T-Shirt) 
+试,657954,Shì,try (verb),请 您 试一试(try)
+颜色,275836,Yánsè,color,红 黄 绿 蓝 白 黑 粉红色(pink)
+大小,704829,Dàxiǎo,size,你 什么 大小
+号,806831,hào,medium size,小号 中号 大号 (S M L)
+肥,897729,Féi,loose (of clothes, shoes, things),这件 衣服 有点儿 肥
+长,115000,Zhǎng,long,这条 裤子(pants) 对我来说(for me) 太长了
+短,147535,duǎn,lack/short(for thing),这棵树很短
+合适,422766,Héshì,suitable (adj),这件 衣服 很 合适
+适合,483206,Shìhé,suit (verb),这件 衣服 适合 我
+有点儿,661006,Yǒudiǎn er,a bit,不(no) -> 有点儿 -> 很 -> 挺...的 -> 非常 -> 极了(extremely)
+牌,572593,Pái,brand,好品牌
+裙子,813751,Qúnzi,skirt,她的 裙子 很 漂亮(beautiful)
+裤子,905999,Kùzi,pants/trousers,我 想 买 一条 裤子
+条,895995,Tiáo,m.w long pants,一条 裤子
+有名,101710,Yǒumíng,famous,这辆(liang) 摩托车 很 有名
+时间,515219,Shíjiān,time,你 有 时间 吗?
+游泳,418291,Yóuyǒng,swim,我 游 了 3个 小时(hours)
+跑步,944046,Pǎobù,run,在 体育馆 跑步
+足球,390876,Zúqiú,football,我 跟 同学 一起 踢足球
+篮球,649688,Lánqiú,basketball,我 和 同学 一起 打篮球
+乒乓球,384274,Pīngpāng qiú,table tennis,我 喜欢 打乒乓球

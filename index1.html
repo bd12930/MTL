@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Belajar Mandarin</title>
+    <meta http-equiv="refresh" content="60">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu" rel="stylesheet">
+
+    <!-- CSS Stylesheets -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Font Awesome -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+
+    <!-- Bootstrap Scripts -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+
+
+<body>
+    <section class="colored-section" id="title">
+        <div class="container-fluid">
+            <!-- Nav Bar -->
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <a class="navbar-brand" href="">Chinese is interesting</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#footer">Contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#pricing">Coming Soon</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#cta">Download</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <!-- Title -->
+
+            <div class="display-date">
+                <p>Current Date and Time is <span id='date-time'></span>.</p>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-lg-6">
+                <h1 class="Let's' review Today 🤗"></h1>
+            </div>
+        </div>
+
+
+    </section>
+
+    <!-- Features -->
+
+
+    <!-- Testimonials -->
+
+    <section class="colored-section" id="testimonials">
+
+        <div id="testimonial-carousel" class="carousel slide" data-ride="carousel" data-interval="12000">
+            <div class="carousel-inner">
+                <div class="carousel-item active container-fluid">
+                    <h2 class="testimonial-text1" id="kanji1">“显” </h2>
+                    <img class="testimonial-image1" id="gambar1" src="http://bishun.strokeorder.info/characters/194723.gif" alt="xiǎn">
+                    <em id="pinyin1">xiǎn</em>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h2 class="testimonial-text3" id="contoh1">and this comes paragraph</h2>
+                    </div>
+                </div>
+
+                <div class="carousel-item container-fluid">
+                    <h2 class="testimonial-text2" id="kanji2">“xiǎn - prominent/conspicuous/Greek stem: phanero- ”</h2>
+                    <img class="testimonial-image2" id="gambar2" src="http://bishun.strokeorder.info/characters/194723.gif" alt="xiǎn">
+                    <em id="pinyin2">xiǎn</em>
+                </div>
+
+                <div class="carousel-item container-fluid">
+                    <img class="testimonial-image2" id="gambar3" src="http://bishun.strokeorder.info/characters/194723.gif" alt="xiǎn">
+                </div>
+
+                <div class="carousel-item container-fluid" data-interval="6000">
+                    <h2 class="testimonial-text2">“Next Word, Pls standby...”</h2>
+                    <img class="" src="images/Leade-Belajar-bahasa-Mandarin.jpg" alt="mandarin">
+                    <em>—Restart</em>
+                </div>
+
+
+
+            </div>
+            <a class="carousel-control-prev" href="#testimonial-carousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#testimonial-carousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+
+    </section>
+
+
+
+
+    <!-- Footer -->
+
+    <footer class="white-section" id="footer">
+        <div class="container-fluid">
+            <i class="social-icon fab fa-facebook-f"></i>
+            <i class="social-icon fab fa-twitter"></i>
+            <i class="social-icon fab fa-instagram"></i>
+            <i class="social-icon fas fa-envelope"></i>
+            <p>© Copyright 2023 Budi Setiawan</p>
+        </div>
+    </footer>
+
+
+</body>
+
+</html>
+
+
+<script>
+    var dt = new Date();
+    document.getElementById('date-time').innerHTML = dt;
+    const kata_baru = [{}];
+    const x = Math.floor((Math.random() * 20) + 0);
+    
+kata_baru[0] = {
+kanji:"容易",gambar:"648422",pinyin:"Róngyì",meaning:"easy",
+contoh:"语法 很 容易"};
+kata_baru[1] = {
+kanji:"声调",gambar:"808442",pinyin:"Shēngdiào",meaning:"tone",
+contoh:"声调 有 点儿 难"};
+kata_baru[2] = {
+kanji:"预习",gambar:"70273",pinyin:"Yùxí",meaning:"preview",
+contoh:"我 每天 预习 生词"};
+kata_baru[3] = {
+kanji:"生词",gambar:"914482",pinyin:"Shēngcí",meaning:"new words",
+contoh:"我 每天 预习 生词"};
+kata_baru[4] = {
+kanji:"课文",gambar:"456826",pinyin:"Kèwén",meaning:"text",
+contoh:"我 每天 预习 生词，读 课文"};
+kata_baru[5] = {
+kanji:"唱",gambar:"990425",pinyin:"Chàng",meaning:"sing",
+contoh:"我 会 唱（朋友）这首歌"};
+kata_baru[6] = {
+kanji:"大家",gambar:"780286",pinyin:"Dàjiā",meaning:"everyone",
+contoh:"我 觉得 大家 在一起 学习 汉语， 都 是 好 朋友 (friends)"};
+kata_baru[7] = {
+kanji:"歌",gambar:"758805",pinyin:"Gē",meaning:"song",
+contoh:"我 会 唱（朋友）这首歌"};
+kata_baru[8] = {
+kanji:"流利",gambar:"962007",pinyin:"Liúlì",meaning:"fluent",
+contoh:"说得 很 流利"};
+kata_baru[9] = {
+kanji:"准",gambar:"903520",pinyin:"Zhǔn",meaning:"standard / accurate",
+contoh:"我 发音 发得 不 太准"};
+kata_baru[10] = {
+kanji:"慢",gambar:"462433",pinyin:"Màn",meaning:"slow",
+contoh:"汉字 写得 很 慢"};
+kata_baru[11] = {
+kanji:"听",gambar:"372824",pinyin:"Tīng",meaning:"listen",
+contoh:"还 听 汉语 歌 练习 听力"};
+kata_baru[12] = {
+kanji:"练习",gambar:"266443",pinyin:"Liànxí",meaning:"practice",
+contoh:"还 听 汉语 歌 练习 听力"};
+kata_baru[13] = {
+kanji:"口语",gambar:"817959",pinyin:"Kǒuyǔ",meaning:"speaking",
+contoh:"我 口语 不错 (good)"};
+kata_baru[14] = {
+kanji:"词",gambar:"914482",pinyin:"cí",meaning:"word",
+contoh:"我 每天 预习 生词"};
+kata_baru[15] = {
+kanji:"得",gambar:"966665",pinyin:"Dé",meaning:"(used after a verb)",
+contoh:"说得 很 流利"};
+kata_baru[16] = {
+kanji:"发音",gambar:"604374",pinyin:"Fāyīn",meaning:"pronunciation",
+contoh:"我 发音 发得 不 太 准 (accurate)"};
+kata_baru[17] = {
+kanji:"快",gambar:"426280",pinyin:"Kuài",meaning:"fast",
+contoh:"你 的 班，谁 跑 最 (most)  快？"};
+kata_baru[18] = {
+kanji:"听力",gambar:"535071",pinyin:"Tīnglì",meaning:"listening",
+contoh:"还 听汉 语歌 练习 听力"};
+kata_baru[19] = {
+kanji:"有意思",gambar:"885251",pinyin:"Yǒuyìsi",meaning:"interesting",
+contoh:"我 觉得 汉语 很 有意思"};
+kata_baru[20] = {
+kanji:"最",gambar:"791004",pinyin:"zuì",meaning:"most",
+contoh:"汉字 最 难"};
+    
+    document.getElementById('kanji1').innerHTML = kata_baru[x].kanji;
+    document.getElementById('kanji2').innerHTML = kata_baru[x].meaning;
+
+    let element1 = document.getElementById("gambar1");
+    element1.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
+    let element2 = document.getElementById("gambar2");
+    element2.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
+    let element3 = document.getElementById("gambar3");
+    element3.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
+
+    document.getElementById('pinyin1').innerHTML = kata_baru[x].pinyin;
+    document.getElementById('pinyin2').innerHTML = kata_baru[x].pinyin;
+
+    document.getElementById('contoh1').innerHTML = kata_baru[x].contoh;
+</script>

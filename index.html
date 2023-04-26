@@ -136,71 +136,176 @@
     var dt = new Date();
     document.getElementById('date-time').innerHTML = dt;
     const kata_baru = [{}];
-    const x = Math.floor((Math.random() * 20) + 0);
+    const x = Math.floor((Math.random() * 56) + 0);
     
-    kata_baru[0] = {
-        kanji: "容易", gambar: "648422", pinyin: "Róngyì", meaning: "easy",
-        contoh: "语法 很 容易"};
-    kata_baru[1] = {
-        kanji: "声调", gambar: "808442", pinyin: "Shēngdiào", meaning: "tone",
-        contoh: "声调 有 点儿 难"};
-    kata_baru[2] = {
-        kanji: "预习", gambar: "70273", pinyin: "Yùxí", meaning: "preview",
-        contoh: "我 每天 预习 生词"};
-    kata_baru[3] = {
-        kanji: "生词", gambar: "914482", pinyin: "Shēngcí", meaning: "new words", 
-        contoh: "我 每天 预习 生词"};
-    kata_baru[4] = {
-        kanji: "课文", gambar: "456826", pinyin: "Kèwén", meaning: "text",
-        contoh: "我 每天 预习 生词，读 课文"};
-    kata_baru[5] = {
-        kanji: "唱", gambar: "990425", pinyin: "Chàng", meaning: "sing",
-        contoh: "我 会 唱（朋友）这首歌"};
-    kata_baru[6] = {
-        kanji: "大家", gambar: "780286", pinyin: "Dàjiā", meaning: "everyone",
-        contoh: "我 觉得 大家 在一起 学习 汉语， 都 是 好 朋友 (friends)"};
-    kata_baru[7] = {
-        kanji: "歌", gambar: "758805", pinyin: "Gē", meaning: "song",
-        contoh: "我 会 唱（朋友）这首歌"};
-    kata_baru[8] = {
-        kanji: "流利", gambar: "962007", pinyin: "Liúlì", meaning: "fluent",
-        contoh: "说得 很 流利"};
-    kata_baru[9] = {
-        kanji: "准", gambar: "903520", pinyin: "Zhǔn", meaning: "standard / accurate", 
-        contoh: "我 发音 发得 不 太准"};
-    kata_baru[10] = {
-        kanji: "慢", gambar: "462433", pinyin: "Màn", meaning: "slow",
-        contoh: "汉字 写得 很 慢"};
-    kata_baru[11] = {
-        kanji: "听", gambar: "372824", pinyin: "Tīng", meaning: "listen", 
-        contoh: "还 听 汉语 歌 练习 听力"};
-    kata_baru[12] = {
-        kanji: "练习", gambar: "266443", pinyin: "Liànxí", meaning: "practice", 
-        contoh: "还 听 汉语 歌 练习 听力"};
-    kata_baru[13] = {
-        kanji: "口语", gambar: "817959", pinyin: "Kǒuyǔ", meaning: "speaking",
-        contoh: "我 口语 不错 (good)"};
-    kata_baru[14] = {
-        kanji: "词", gambar: "914482", pinyin: "cí", meaning: "word",
-        contoh: "我 每天 预习 生词"};
-    kata_baru[15] = {
-        kanji: "得", gambar: "966665", pinyin: "Dé", meaning: "(used after a verb)", 
-        contoh: "说得 很 流利"};
-    kata_baru[16] = {
-        kanji: "发音", gambar: "604374", pinyin: "Fāyīn", meaning: "pronunciation",
-        contoh: "我 发音 发得 不 太 准 (accurate)"};
-    kata_baru[17] = {
-        kanji: "快", gambar: "426280", pinyin: "Kuài", meaning: "fast",
-        contoh: "你 的 班，谁 跑 最 (most)  快？"};
-    kata_baru[18] = {
-        kanji: "听力", gambar: "535071", pinyin: "Tīnglì", meaning: "listening",
-        contoh: "还 听汉 语歌 练习 听力"};
-    kata_baru[19] = {
-        kanji: "有意思", gambar: "885251", pinyin: "Yǒuyìsi", meaning: "interesting", 
-        contoh: "我 觉得 汉语 很 有意思"};
-    kata_baru[20] = {
-        kanji: "最", gambar: "791004", pinyin: "zuì", meaning: "most ",
-        contoh: "汉字 最 难"};
+kata_baru[0] = {
+kanji:"容易",gambar:"648422",pinyin:"Róngyì",meaning:"easy",
+contoh:"语法 很 容易"};
+kata_baru[1] = {
+kanji:"声调",gambar:"808442",pinyin:"Shēngdiào",meaning:"tone",
+contoh:"声调 有 点儿 难"};
+kata_baru[2] = {
+kanji:"预习",gambar:"70273",pinyin:"Yùxí",meaning:"preview",
+contoh:"我 每天 预习 生词"};
+kata_baru[3] = {
+kanji:"生词",gambar:"914482",pinyin:"Shēngcí",meaning:"new words",
+contoh:"我 每天 预习 生词"};
+kata_baru[4] = {
+kanji:"课文",gambar:"456826",pinyin:"Kèwén",meaning:"text",
+contoh:"我 每天 预习 生词，读 课文"};
+kata_baru[5] = {
+kanji:"唱",gambar:"990425",pinyin:"Chàng",meaning:"sing",
+contoh:"我 会 唱（朋友）这首歌"};
+kata_baru[6] = {
+kanji:"大家",gambar:"780286",pinyin:"Dàjiā",meaning:"everyone",
+contoh:"我 觉得 大家 在一起 学习 汉语， 都 是 好 朋友 (friends)"};
+kata_baru[7] = {
+kanji:"歌",gambar:"758805",pinyin:"Gē",meaning:"song",
+contoh:"我 会 唱（朋友）这首歌"};
+kata_baru[8] = {
+kanji:"流利",gambar:"962007",pinyin:"Liúlì",meaning:"fluent",
+contoh:"说得 很 流利"};
+kata_baru[9] = {
+kanji:"准",gambar:"903520",pinyin:"Zhǔn",meaning:"standard / accurate",
+contoh:"我 发音 发得 不 太准"};
+kata_baru[10] = {
+kanji:"慢",gambar:"462433",pinyin:"Màn",meaning:"slow",
+contoh:"汉字 写得 很 慢"};
+kata_baru[11] = {
+kanji:"听",gambar:"372824",pinyin:"Tīng",meaning:"listen",
+contoh:"还 听 汉语 歌 练习 听力"};
+kata_baru[12] = {
+kanji:"练习",gambar:"266443",pinyin:"Liànxí",meaning:"practice",
+contoh:"还 听 汉语 歌 练习 听力"};
+kata_baru[13] = {
+kanji:"口语",gambar:"817959",pinyin:"Kǒuyǔ",meaning:"speaking",
+contoh:"我 口语 不错(good)"};
+kata_baru[14] = {
+kanji:"词",gambar:"914482",pinyin:"cí",meaning:"word",
+contoh:"我 每天 预习 生词"};
+kata_baru[15] = {
+kanji:"得",gambar:"966665",pinyin:"Dé",meaning:"(used after a verb)",
+contoh:"说得 很 流利"};
+kata_baru[16] = {
+kanji:"发音",gambar:"604374",pinyin:"Fāyīn",meaning:"pronunciation",
+contoh:"我 发音 发得 不 太 准(accurate)"};
+kata_baru[17] = {
+kanji:"快",gambar:"426280",pinyin:"Kuài",meaning:"fast",
+contoh:"你 的 班，谁 跑 最 (most)  快？"};
+kata_baru[18] = {
+kanji:"听力",gambar:"535071",pinyin:"Tīnglì",meaning:"listening",
+contoh:"还 听汉 语歌 练习 听力"};
+kata_baru[19] = {
+kanji:"有意思",gambar:"885251",pinyin:"Yǒuyìsi",meaning:"interesting",
+contoh:"我 觉得 汉语 很 有意思"};
+kata_baru[20] = {
+kanji:"最",gambar:"791004",pinyin:"zuì",meaning:"most",
+contoh:"汉字 最 难"};
+kata_baru[21] = {
+kanji:"怎么了",gambar:"910418",pinyin:"Zěnmele",meaning:"whats wrong",
+contoh:"你怎么了"};
+kata_baru[22] = {
+kanji:"感冒",gambar:"78779",pinyin:"Gǎnmào",meaning:"cold/flu",
+contoh:"我感冒了"};
+kata_baru[23] = {
+kanji:"头疼",gambar:"608242",pinyin:"Tóuténg",meaning:"headache",
+contoh:"我的头不疼"};
+kata_baru[24] = {
+kanji:"流",gambar:"962007",pinyin:"Liú",meaning:"flow",
+contoh:"说得 很 流利"};
+kata_baru[25] = {
+kanji:"鼻涕",gambar:"152657",pinyin:"Bítì",meaning:"nasal mucus",
+contoh:"流 鼻涕"};
+kata_baru[26] = {
+kanji:"咳嗽",gambar:"721210",pinyin:"Késòu",meaning:"cough",
+contoh:"我 在 咳嗽"};
+kata_baru[27] = {
+kanji:"嗓子",gambar:"752648",pinyin:"Sǎngzi",meaning:"throat",
+contoh:"我咳嗽了"};
+kata_baru[28] = {
+kanji:"发烧",gambar:"896040",pinyin:"Fāshāo",meaning:"fever",
+contoh:"Jacob 发烧了"};
+kata_baru[29] = {
+kanji:"大夫",gambar:"156303",pinyin:"Dàfū",meaning:"doctor",
+contoh:"大夫 说 我 很好"};
+kata_baru[30] = {
+kanji:"热",gambar:"156303",pinyin:"Rè",meaning:"hot",
+contoh:"今天 天气 很热"};
+kata_baru[31] = {
+kanji:"量",gambar:"683130",pinyin:"liàng",meaning:"measure",
+contoh:"我量 一下 你的 体温"};
+kata_baru[32] = {
+kanji:"体温",gambar:"70254",pinyin:"Tǐwēn",meaning:"body temperature",
+contoh:"她的 体温 多高(how high)?"};
+kata_baru[33] = {
+kanji:"度",gambar:"692896",pinyin:"Dù",meaning:"degree/celcius",
+contoh:"我的体温是36度5"};
+kata_baru[34] = {
+kanji:"打针",gambar:"616925",pinyin:"Dǎzhēn",meaning:"inject",
+contoh:"医生 说 弟弟 不用 打针"};
+kata_baru[35] = {
+kanji:"开",gambar:"637764",pinyin:"Kāi",meaning:"open (>< 关)",
+contoh:"医生 开药(to prescribe)"};
+kata_baru[36] = {
+kanji:"药",gambar:"649940",pinyin:"Yào",meaning:"medicine",
+contoh:"我 不 喜欢 吃 药(medicine)"};
+kata_baru[37] = {
+kanji:"病",gambar:"612338",pinyin:"Bìng",meaning:"sick",
+contoh:"他 不 来 上课"};
+kata_baru[38] = {
+kanji:"水",gambar:"55406",pinyin:"shuǐ",meaning:"water",
+contoh:"感冒 的时候(when) 多喝 水吧"};
+kata_baru[39] = {
+kanji:"舒服",gambar:"715227",pinyin:"Shūfú",meaning:"comfortable",
+contoh:"这张 床(bed) 很 舒服"};
+kata_baru[40] = {
+kanji:"出生",gambar:"884759",pinyin:"Chūshēng",meaning:"born",
+contoh:"你什么时候出生?"};
+kata_baru[41] = {
+kanji:"岁",gambar:"174028",pinyin:"Suì",meaning:"age",
+contoh:"我 今年 12岁(kids).多大了(adult).多大年纪了(senior)."};
+kata_baru[42] = {
+kanji:"属",gambar:"430928",pinyin:"shǔ",meaning:"shio/chinese zodiak",
+contoh:"你属什么"};
+kata_baru[43] = {
+kanji:"天",gambar:"166547",pinyin:"Tiān",meaning:"day/sky",
+contoh:"(past)前 - 昨 <- 今天 -> 明 - 后(future)"};
+kata_baru[44] = {
+kanji:"月",gambar:"143091",pinyin:"Yuè",meaning:"month/moon",
+contoh:"(past)上个 <- 这个月 -> 下个(future)"};
+kata_baru[45] = {
+kanji:"年",gambar:"326869",pinyin:"Nián",meaning:"year",
+contoh:"(past)去 <- 今年 -> 明(future)"};
+kata_baru[46] = {
+kanji:"毕业",gambar:"667423",pinyin:"Bìyè",meaning:"graduate",
+contoh:"你 好好 学习"};
+kata_baru[47] = {
+kanji:"最",gambar:"791004",pinyin:"zuì",meaning:"most",
+contoh:"Jacob 是 妈妈 最小 的 孩子"};
+kata_baru[48] = {
+kanji:"更",gambar:"327230",pinyin:"Gēng",meaning:"more",
+contoh:"Jacob 比 Peter 更小"};
+kata_baru[49] = {
+kanji:"比",gambar:"609006",pinyin:"bǐ",meaning:"compare",
+contoh:"Niko 比 Kito 更大"};
+kata_baru[50] = {
+kanji:"胖",gambar:"947824",pinyin:"Pàng",meaning:"fat(><瘦)",
+contoh:"大象很胖"};
+kata_baru[51] = {
+kanji:"瘦",gambar:"818939",pinyin:"shòu",meaning:"skinny/thin(><胖)",
+contoh:"猫很瘦"};
+kata_baru[52] = {
+kanji:"重",gambar:"126200",pinyin:"Zhòng",meaning:"heavy(><轻)",
+contoh:"我 100 公斤了"};
+kata_baru[53] = {
+kanji:"轻",gambar:"754743",pinyin:"Qīng",meaning:"light(><重)",
+contoh:"她 60 公斤，很轻"};
+kata_baru[54] = {
+kanji:"高",gambar:"143379",pinyin:"Gāo",meaning:"tall(><矮)",
+contoh:"公共汽车 比 汽车 更高"};
+kata_baru[55] = {
+kanji:"矮",gambar:"290522",pinyin:"Ǎi",meaning:"short (for people)",
+contoh:"妈妈 比 爸爸 更矮"};
     
     document.getElementById('kanji1').innerHTML = kata_baru[x].kanji;
     document.getElementById('kanji2').innerHTML = kata_baru[x].meaning;

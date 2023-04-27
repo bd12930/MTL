@@ -1,0 +1,1232 @@
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“林完昌” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/299325.gif" alt="budi">
+<em>Budi</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >@ciong</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“林完昌”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/299325.gif" alt="budi">
+<em>Lím wán chāng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/299325.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“林俊杰” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/236542.gif" alt="budi">
+<em>Stephen</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Tephen</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“林俊杰”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/236542.gif" alt="budi">
+<em>Lín jùn jié</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/236542.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“林俊福” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/134592.gif" alt="budi">
+<em>Peter</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Pete</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“林俊福”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/134592.gif" alt="budi">
+<em>Lín jùn fú</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/134592.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“林俊宝” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/70154.gif" alt="budi">
+<em>Jacob</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Jack</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“林俊宝”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/70154.gif" alt="budi">
+<em>Lam jùn bǎo</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/70154.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“林美丽” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/573005.gif" alt="budi">
+<em>Debora</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Debbie</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“林美丽”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/573005.gif" alt="budi">
+<em>Lín měi lì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/573005.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“关键祥” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/364734.gif" alt="budi">
+<em>James</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Yakobus</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“关键祥”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/364734.gif" alt="budi">
+<em>Guān jiàn xiáng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/364734.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“容易” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/648422.gif" alt="budi">
+<em>easy</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >语法 很 容易</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“容易”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/648422.gif" alt="budi">
+<em>Róngyì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/648422.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“声调” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/808442.gif" alt="budi">
+<em>tone</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >声调 有 点儿 难</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“声调”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/808442.gif" alt="budi">
+<em>Shēngdiào</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/808442.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“预习” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/70273.gif" alt="budi">
+<em>preview</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 每天 预习 生词</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“预习”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/70273.gif" alt="budi">
+<em>Yùxí</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/70273.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“生词” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/914482.gif" alt="budi">
+<em>new words</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 每天 预习 生词</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“生词”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/914482.gif" alt="budi">
+<em>Shēngcí</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/914482.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“课文” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/456826.gif" alt="budi">
+<em>text</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 每天 预习 生词，读 课文</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“课文”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/456826.gif" alt="budi">
+<em>Kèwén</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/456826.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“唱” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/990425.gif" alt="budi">
+<em>sing</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 会 唱（朋友）这首歌</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“唱”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/990425.gif" alt="budi">
+<em>Chàng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/990425.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“大家” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/780286.gif" alt="budi">
+<em>everyone</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 觉得 大家 在一起 学习 汉语  都 是 好 朋友 (friends)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“大家”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/780286.gif" alt="budi">
+<em>Dàjiā</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/780286.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“歌” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/758805.gif" alt="budi">
+<em>song</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 会 唱（朋友）这首歌</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“歌”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/758805.gif" alt="budi">
+<em>Gē</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/758805.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“流利” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/962007.gif" alt="budi">
+<em>fluent</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >说得 很 流利</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“流利”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/962007.gif" alt="budi">
+<em>Liúlì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/962007.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“准” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/903520.gif" alt="budi">
+<em>standard / accurate</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 发音 发得 不 太准</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“准”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/903520.gif" alt="budi">
+<em>Zhǔn</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/903520.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“慢” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/462433.gif" alt="budi">
+<em>slow</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >汉字 写得 很 慢</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“慢”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/462433.gif" alt="budi">
+<em>Màn</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/462433.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“听” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/372824.gif" alt="budi">
+<em>listen</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >还 听 汉语 歌 练习 听力</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“听”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/372824.gif" alt="budi">
+<em>Tīng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/372824.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“练习” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/266443.gif" alt="budi">
+<em>practice</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >还 听 汉语 歌 练习 听力</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“练习”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/266443.gif" alt="budi">
+<em>Liànxí</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/266443.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“口语” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/817959.gif" alt="budi">
+<em>speaking</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 口语 不错(good)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“口语”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/817959.gif" alt="budi">
+<em>Kǒuyǔ</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/817959.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“词” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/914482.gif" alt="budi">
+<em>word</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 每天 预习 生词</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“词”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/914482.gif" alt="budi">
+<em>cí</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/914482.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“得” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/966665.gif" alt="budi">
+<em>(used after a verb)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >说得 很 流利</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“得”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/966665.gif" alt="budi">
+<em>Dé</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/966665.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“得” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/966665.gif" alt="budi">
+<em>ought to</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >应该(should) -> 得(should) -> 必须(must)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“得”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/966665.gif" alt="budi">
+<em>Déi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/966665.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“发音” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/604374.gif" alt="budi">
+<em>pronunce/pronunciation</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 发音(noun) 发得 不 太 准(accurate)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“发音”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/604374.gif" alt="budi">
+<em>Fāyīn</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/604374.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“快” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/426280.gif" alt="budi">
+<em>fast</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >你 的 班，谁 跑 最 (most)  快？</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“快”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/426280.gif" alt="budi">
+<em>Kuài</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/426280.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“听力” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/535071.gif" alt="budi">
+<em>listening</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >还 听汉 语歌 练习 听力</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“听力”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/535071.gif" alt="budi">
+<em>Tīnglì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/535071.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“有意思” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/885251.gif" alt="budi">
+<em>interesting</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 觉得 汉语 很 有意思</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“有意思”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/885251.gif" alt="budi">
+<em>Yǒuyìsi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/885251.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“最” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/791004.gif" alt="budi">
+<em>most</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >汉字 最 难</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“最”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/791004.gif" alt="budi">
+<em>zuì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/791004.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“怎么了” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/910418.gif" alt="budi">
+<em>whats wrong</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >你 怎么了</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“怎么了”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/910418.gif" alt="budi">
+<em>Zěnmele</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/910418.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“感冒” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/78779.gif" alt="budi">
+<em>cold/flu</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 感冒 了</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“感冒”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/78779.gif" alt="budi">
+<em>Gǎnmào</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/78779.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“头疼” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/608242.gif" alt="budi">
+<em>headache</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 的 头 不疼</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“头疼”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/608242.gif" alt="budi">
+<em>Tóuténg</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/608242.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“流” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/962007.gif" alt="budi">
+<em>flow</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >说得 很 流利</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“流”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/962007.gif" alt="budi">
+<em>Liú</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/962007.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“鼻涕” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/152657.gif" alt="budi">
+<em>nasal mucus</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >流 鼻涕</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“鼻涕”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/152657.gif" alt="budi">
+<em>Bítì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/152657.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“咳嗽” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/721210.gif" alt="budi">
+<em>cough</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 在 咳嗽</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“咳嗽”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/721210.gif" alt="budi">
+<em>Késòu</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/721210.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“嗓子” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/752648.gif" alt="budi">
+<em>throat</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 咳嗽 了  嗓子 也很 疼(hurt)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“嗓子”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/752648.gif" alt="budi">
+<em>Sǎngzi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/752648.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“发烧” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/896040.gif" alt="budi">
+<em>fever</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Jacob 昨天 发烧 - 今天 他 没事</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“发烧”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/896040.gif" alt="budi">
+<em>Fāshāo</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/896040.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“大夫” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/156303.gif" alt="budi">
+<em>doctor</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >大夫 说 我 很好</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“大夫”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/156303.gif" alt="budi">
+<em>Dàfū</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/156303.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“热” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/666218.gif" alt="budi">
+<em>hot</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >今天 天气 很热</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“热”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/666218.gif" alt="budi">
+<em>Rè</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/666218.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“量” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/683130.gif" alt="budi">
+<em>measure</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我量 一下 你的 体温</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“量”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/683130.gif" alt="budi">
+<em>liàng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/683130.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“体温” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/70254.gif" alt="budi">
+<em>body temperature</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >她的 体温 多高(how high)?</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“体温”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/70254.gif" alt="budi">
+<em>Tǐwēn</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/70254.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“度” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/692896.gif" alt="budi">
+<em>degree/celcius</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 的 体温 是 36度5</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“度”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/692896.gif" alt="budi">
+<em>Dù</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/692896.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“打针” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/616925.gif" alt="budi">
+<em>inject</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >医生 说 弟弟 不用 打针</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“打针”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/616925.gif" alt="budi">
+<em>Dǎzhēn</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/616925.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“开” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/637764.gif" alt="budi">
+<em>open (>< 关)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >医生 开药(to prescribe)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“开”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/637764.gif" alt="budi">
+<em>Kāi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/637764.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“药” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/649940.gif" alt="budi">
+<em>medicine</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 不 喜欢 吃 药(medicine)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“药”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/649940.gif" alt="budi">
+<em>Yào</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/649940.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“病” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/612338.gif" alt="budi">
+<em>sick</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >他 不 来 上课</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“病”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/612338.gif" alt="budi">
+<em>Bìng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/612338.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“水” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/55406.gif" alt="budi">
+<em>water</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >感冒 的时候(when) 多喝 水吧</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“水”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/55406.gif" alt="budi">
+<em>shuǐ</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/55406.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“舒服” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/715227.gif" alt="budi">
+<em>comfortable</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >这张 床(bed) 很 舒服</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“舒服”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/715227.gif" alt="budi">
+<em>Shūfú</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/715227.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“出生” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/884759.gif" alt="budi">
+<em>born</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >你什么时候出生?</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“出生”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/884759.gif" alt="budi">
+<em>Chūshēng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/884759.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“岁” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/174028.gif" alt="budi">
+<em>age</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 今年 12岁(kids).多大了(adult).多大年纪了(senior).</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“岁”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/174028.gif" alt="budi">
+<em>Suì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/174028.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“属” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/430928.gif" alt="budi">
+<em>shio/chinese zodiac</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >你 属 什么</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“属”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/430928.gif" alt="budi">
+<em>shǔ</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/430928.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“天” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/166547.gif" alt="budi">
+<em>day/sky</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >(past)前 - 昨 <- 今天 -> 明 - 后(future)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“天”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/166547.gif" alt="budi">
+<em>Tiān</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/166547.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“月” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/143091.gif" alt="budi">
+<em>month/moon</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >(past)上个 <- 这个月 -> 下个(future)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“月”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/143091.gif" alt="budi">
+<em>Yuè</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/143091.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“年” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/326869.gif" alt="budi">
+<em>year</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >(past)去 <- 今年 -> 明(future)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“年”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/326869.gif" alt="budi">
+<em>Nián</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/326869.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“毕业” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/667423.gif" alt="budi">
+<em>graduate</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >你 好好 学习  所以(so) 会 毕业 好</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“毕业”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/667423.gif" alt="budi">
+<em>Bìyè</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/667423.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“最” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/791004.gif" alt="budi">
+<em>most</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Jacob 是 妈妈 最小 的 孩子</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“最”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/791004.gif" alt="budi">
+<em>zuì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/791004.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“更” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/327230.gif" alt="budi">
+<em>more</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Jacob 比 Peter 更小</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“更”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/327230.gif" alt="budi">
+<em>Gēng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/327230.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“比” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/609006.gif" alt="budi">
+<em>compare</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >Niko 比 Kito 更大</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“比”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/609006.gif" alt="budi">
+<em>bǐ</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/609006.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“胖” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/947824.gif" alt="budi">
+<em>fat(><瘦)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >大象很胖</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“胖”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/947824.gif" alt="budi">
+<em>Pàng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/947824.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“瘦” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/818939.gif" alt="budi">
+<em>skinny/thin(><胖)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >猫 很 瘦</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“瘦”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/818939.gif" alt="budi">
+<em>shòu</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/818939.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“重” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/126200.gif" alt="budi">
+<em>heavy(><轻)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 100 公斤了  很重了</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“重”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/126200.gif" alt="budi">
+<em>Zhòng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/126200.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“轻” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/754743.gif" alt="budi">
+<em>light(><重)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >她 60 公斤 很轻</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“轻”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/754743.gif" alt="budi">
+<em>Qīng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/754743.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“高” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/143379.gif" alt="budi">
+<em>tall(><矮)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >公共汽车 比 汽车 更高</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“高”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/143379.gif" alt="budi">
+<em>Gāo</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/143379.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“矮” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/290522.gif" alt="budi">
+<em>short (for people)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >妈妈 比 爸爸 更矮</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“矮”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/290522.gif" alt="budi">
+<em>Ǎi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/290522.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“件” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/263007.gif" alt="budi">
+<em>m.w cloth</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我要 挑 1件 衣服</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“件”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/263007.gif" alt="budi">
+<em>Jiàn</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/263007.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“衣服” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/512051.gif" alt="budi">
+<em>cloth</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我要 挑 1件 衣服</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“衣服”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/512051.gif" alt="budi">
+<em>Yīfú</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/512051.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“样子” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/575939.gif" alt="budi">
+<em>style/design/fashion</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >这 样子 不错(good)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“样子”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/575939.gif" alt="budi">
+<em>Yàngzi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/575939.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“式” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/855675.gif" alt="budi">
+<em>style</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >中式  西式  印尼 式  旗袍(cheong-sam)  T恤(T-Shirt) </h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“式”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/855675.gif" alt="budi">
+<em>Shì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/855675.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“试” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/657954.gif" alt="budi">
+<em>try (verb)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >请 您 试一试(try)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“试”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/657954.gif" alt="budi">
+<em>Shì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/657954.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“颜色” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/275836.gif" alt="budi">
+<em>color</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >红 黄 绿 蓝 白 黑 粉红色(pink)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“颜色”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/275836.gif" alt="budi">
+<em>Yánsè</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/275836.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“大小” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/704829.gif" alt="budi">
+<em>size</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >你 什么 大小</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“大小”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/704829.gif" alt="budi">
+<em>Dàxiǎo</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/704829.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“号” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/806831.gif" alt="budi">
+<em>medium size</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >小号 中号 大号 (S M L)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“号”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/806831.gif" alt="budi">
+<em>hào</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/806831.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“肥” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/897729.gif" alt="budi">
+<em>loose (of clothes</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" > shoes</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“肥”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/897729.gif" alt="budi">
+<em>Féi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/897729.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“长” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/115000.gif" alt="budi">
+<em>long</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >这条 裤子(pants) 对我来说(for me) 太长了</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“长”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/115000.gif" alt="budi">
+<em>Zhǎng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/115000.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“短” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/147535.gif" alt="budi">
+<em>lack/short(for thing)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >这棵树很短</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“短”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/147535.gif" alt="budi">
+<em>duǎn</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/147535.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“合适” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/422766.gif" alt="budi">
+<em>suitable (adj)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >这件 衣服 很 合适</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“合适”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/422766.gif" alt="budi">
+<em>Héshì</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/422766.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“适合” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/483206.gif" alt="budi">
+<em>suit (verb)</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >这件 衣服 适合 我</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“适合”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/483206.gif" alt="budi">
+<em>Shìhé</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/483206.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“有点儿” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/661006.gif" alt="budi">
+<em>a bit</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >不(no) -> 有点儿 -> 很 -> 挺...的 -> 非常 -> 极了(extremely)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“有点儿”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/661006.gif" alt="budi">
+<em>Yǒudiǎn er</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/661006.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“牌” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/572593.gif" alt="budi">
+<em>brand</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >好品牌</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“牌”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/572593.gif" alt="budi">
+<em>Pái</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/572593.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“裙子” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/813751.gif" alt="budi">
+<em>skirt</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >她的 裙子 很 漂亮(beautiful)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“裙子”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/813751.gif" alt="budi">
+<em>Qúnzi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/813751.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“裤子” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/905999.gif" alt="budi">
+<em>pants/trousers</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 想 买 一条 裤子</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“裤子”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/905999.gif" alt="budi">
+<em>Kùzi</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/905999.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“条” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/895995.gif" alt="budi">
+<em>m.w long pants</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >一条 裤子</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“条”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/895995.gif" alt="budi">
+<em>Tiáo</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/895995.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“有名” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/101710.gif" alt="budi">
+<em>famous</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >这辆(liang) 摩托车 很 有名</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“有名”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/101710.gif" alt="budi">
+<em>Yǒumíng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/101710.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“时间” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/515219.gif" alt="budi">
+<em>time</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >你 有 时间 吗?</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“时间”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/515219.gif" alt="budi">
+<em>Shíjiān</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/515219.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“游泳” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/418291.gif" alt="budi">
+<em>swim</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 游 了 3个 小时(hours)</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“游泳”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/418291.gif" alt="budi">
+<em>Yóuyǒng</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/418291.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“跑步” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/944046.gif" alt="budi">
+<em>run</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >在 体育馆 跑步</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“跑步”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/944046.gif" alt="budi">
+<em>Pǎobù</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/944046.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“足球” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/390876.gif" alt="budi">
+<em>football</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 跟 同学 一起 踢足球</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“足球”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/390876.gif" alt="budi">
+<em>Zúqiú</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/390876.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“篮球” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/649688.gif" alt="budi">
+<em>basketball</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 和 同学 一起 打篮球</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“篮球”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/649688.gif" alt="budi">
+<em>Lánqiú</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/649688.gif" alt="budi">
+</div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text1" >“乒乓球” </h2>
+<img class="testimonial-image1" src="http://bishun.strokeorder.info/characters/384274.gif" alt="budi">
+<em>table tennis</em>
+<div class="carousel-caption d-none d-md-block">
+<h2 class="testimonial-text3" >我 喜欢 打乒乓球</h2>
+</div></div>
+<div class="carousel-item container-fluid">
+<h2 class="testimonial-text2">“乒乓球”</h2>
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/384274.gif" alt="budi">
+<em>Pīngpāng qiú</em></div>
+<div class="carousel-item container-fluid">
+<img class="testimonial-image2" src="http://bishun.strokeorder.info/characters/384274.gif" alt="budi">
+</div>

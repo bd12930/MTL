@@ -1,3 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Belajar Mandarin</title>
+    <meta http-equiv="refresh" content="60">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu" rel="stylesheet">
+
+    <!-- CSS Stylesheets -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Font Awesome -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+
+    <!-- Bootstrap Scripts -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+
+
+<body>
+    <section class="colored-section" id="title">
+        <div class="container-fluid">
+            <!-- Nav Bar -->
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <a class="navbar-brand" href="">Chinese is interesting</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#footer">Contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#pricing">Coming Soon</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="index1.html">Compat Mode</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <!-- Title -->
+
+            <div class="display-date">
+                <p>Current Date and Time is <span id='date-time'></span>.</p>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-lg-6">
+                <h1 class="Let's' review Today 🤗"></h1>
+            </div>
+        </div>
+
+
+    </section>
+
+    <!-- Features -->
+
+
+    <!-- Testimonials -->
+
+    <section class="colored-section" id="testimonials">
+
+        <div id="testimonial-carousel" class="carousel slide" data-ride="carousel" data-interval="12000">
+            <div class="carousel-inner">
+                <div class="carousel-item active container-fluid">
+                    <h2 class="testimonial-text1" id="kanji1">“显” </h2>
+                    <img class="testimonial-image1" id="gambar1" src="http://bishun.strokeorder.info/characters/194723.gif" alt="xiǎn">
+                    <em id="pinyin1">xiǎn</em>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h2 class="testimonial-text3" id="contoh1">and this comes paragraph</h2>
+                    </div>
+                </div>
+
+                <div class="carousel-item container-fluid">
+                    <h2 class="testimonial-text2" id="kanji2">“xiǎn - prominent/conspicuous/Greek stem: phanero- ”</h2>
+                    <img class="testimonial-image2" id="gambar2" src="http://bishun.strokeorder.info/characters/194723.gif" alt="xiǎn">
+                    <em id="pinyin2">xiǎn</em>
+                </div>
+
+                <div class="carousel-item container-fluid">
+                    <img class="testimonial-image2" id="gambar3" src="http://bishun.strokeorder.info/characters/194723.gif" alt="xiǎn">
+                </div>
+
+                <div class="carousel-item container-fluid" data-interval="6000">
+                    <h2 class="testimonial-text2">“Next Word, Pls standby...”</h2>
+                    <img class="" src="images/Leade-Belajar-bahasa-Mandarin.jpg" alt="mandarin">
+                    <em>—Restart</em>
+                </div>
+
+
+
+            </div>
+            <a class="carousel-control-prev" href="#testimonial-carousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#testimonial-carousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+
+    </section>
+
+
+
+
+    <!-- Footer -->
+
+    <footer class="white-section" id="footer">
+        <div class="container-fluid">
+            <i class="social-icon fab fa-facebook-f"></i>
+            <i class="social-icon fab fa-twitter"></i>
+            <i class="social-icon fab fa-instagram"></i>
+            <i class="social-icon fas fa-envelope"></i>
+            <p>© Copyright 2023 Budi Setiawan</p>
+        </div>
+    </footer>
+
+
+</body>
+
+</html>
+
+
+<script>
+    var dt = new Date();
+    document.getElementById('date-time').innerHTML = dt;
+    const kata_baru = [{}];
+    const x = Math.floor((Math.random() * 88) + 0);
+    
 kata_baru[0] = {
 kanji:"林完昌",gambar:"299325",pinyin:"Lím wán chāng",meaning:"Budi",
 contoh:"@ciong"};
@@ -262,93 +402,19 @@ contoh:"我 和 同学 一起 打篮球"};
 kata_baru[87] = {
 kanji:"乒乓球",gambar:"384274",pinyin:"Pīngpāng qiú",meaning:"table tennis",
 contoh:"我 喜欢 打乒乓球"};
-kata_baru[88] = {
-kanji:"只",gambar:"586560",pinyin:"Zhǐ",meaning:"only/just",
-contoh:"最 高 气温 只 有 8 度."};
-kata_baru[89] = {
-kanji:"冷",gambar:"151882",pinyin:"Lěng",meaning:"cold",
-contoh:"今天 的 气温 比 昨天 冷。"};
-kata_baru[90] = {
-kanji:"比",gambar:"609006",pinyin:"bǐ",meaning:"compare to",
-contoh:"爸爸 比 妈妈 高."};
-kata_baru[91] = {
-kanji:"气温",gambar:"534394",pinyin:"Qìwēn",meaning:"temperature",
-contoh:"今天 的 气温 比 昨天 冷。"};
-kata_baru[92] = {
-kanji:"低",gambar:"275022",pinyin:"Dī",meaning:"low",
-contoh:"最 低 气温 为 25 度."};
-kata_baru[93] = {
-kanji:"零下",gambar:"326302",pinyin:"Língxià",meaning:"below zero",
-contoh:"今天 纽约 零下 5 度。"};
-kata_baru[94] = {
-kanji:"零上",gambar:"326302",pinyin:"Língshàng",meaning:"above zero",
-contoh:"天气 预报 说 明天 纽约 的 气温 零上 5 度。"};
-kata_baru[95] = {
-kanji:"还",gambar:"440812",pinyin:"Hái",meaning:"still (for comparing)",
-contoh:"Singapore 比 Jakarta 还 热。"};
-kata_baru[96] = {
-kanji:"别..了",gambar:"867132",pinyin:"Bié..le",meaning:"don't",
-contoh:"呆在 家 里，别 感冒 了。"};
-kata_baru[97] = {
-kanji:"天气",gambar:"156302",pinyin:"Tiānqì",meaning:"weather",
-contoh:"今天 天气 怎么样？"};
-kata_baru[98] = {
-kanji:"预报",gambar:"725617",pinyin:"Yùbào",meaning:"forcast",
-contoh:"天气预报说"};
-kata_baru[99] = {
-kanji:"阴",gambar:"917097",pinyin:"yīn",meaning:"overcast",
-contoh:"今天阴"};
-kata_baru[100] = {
-kanji:"级",gambar:"110328",pinyin:"Jí",meaning:"level",
-contoh:"今天阴"};
-kata_baru[101] = {
-kanji:"穿",gambar:"662467",pinyin:"Chuān",meaning:"to wear",
-contoh:"明天要多穿点儿衣服."};
-kata_baru[102] = {
-kanji:"岛",gambar:"689159",pinyin:"dǎo",meaning:"island",
-contoh:"Bali 岛 非常 美丽."};
-kata_baru[103] = {
-kanji:"下雨",gambar:"593408",pinyin:"Xià yǔ",meaning:"rain",
-contoh:"天气下雨."};
-kata_baru[104] = {
-kanji:"多云",gambar:"346894",pinyin:"Duōyún",meaning:"cloudy",
-contoh:"天气多云."};
-kata_baru[105] = {
-kanji:"下雪",gambar:"307482",pinyin:"Xià xuě",meaning:"snowing",
-contoh:"天气下雪."};
-kata_baru[106] = {
-kanji:"晴天",gambar:"300741",pinyin:"Qíngtiān",meaning:"clear day",
-contoh:"天气晴天."};
-kata_baru[107] = {
-kanji:"季节",gambar:"679044",pinyin:"Jìjié",meaning:"season",
-contoh:"你 喜欢 什么 季节?"};
-kata_baru[108] = {
-kanji:"春天",gambar:"298710",pinyin:"Chūntiān",meaning:"spring",
-contoh:"这个 月 是 春天.今年 3月 2日 到 5月 31日为春天."};
-kata_baru[109] = {
-kanji:"夏天",gambar:"217875",pinyin:"Xiàtiān",meaning:"summer",
-contoh:"6月 1日 到 8月 30日为夏天."};
-kata_baru[110] = {
-kanji:"冬天",gambar:"859121",pinyin:"Dōngtiān",meaning:"winter",
-contoh:"11月30日 到 2021年2月28日为冬季。"};
-kata_baru[111] = {
-kanji:"秋天",gambar:"240521",pinyin:"Qiūtiān",meaning:"autumn",
-contoh:"8月 31日 到 11月 29日为秋天."};
-kata_baru[112] = {
-kanji:"秋天",gambar:"240521",pinyin:"Qiūtiān",meaning:"autumn",
-contoh:"秋天刮大风了."};
-kata_baru[113] = {
-kanji:"刮",gambar:"607227",pinyin:"Guā",meaning:"blow",
-contoh:"请关门! 别让风刮开."};
-kata_baru[114] = {
-kanji:"家乡",gambar:"118003",pinyin:"Jiāxiāng",meaning:"hometown",
-contoh:"我 很想 我的 家乡."};
-kata_baru[115] = {
-kanji:"家乡",gambar:"118003",pinyin:"Jiāxiāng",meaning:"hometown",
-contoh:"我的 家乡 冬天 不 太 冷."};
-kata_baru[116] = {
-kanji:"暖和",gambar:"922272",pinyin:"Nuǎnhuo",meaning:"warm",
-contoh:"我的 家乡 夏天 很 暖和(warm)."};
-kata_baru[117] = {
-kanji:"凉快",gambar:"837432",pinyin:"liángkuai",meaning:"cool",
-contoh:"我 觉得 秋天 (fall) 很 凉快(cooling)."};
+    
+    document.getElementById('kanji1').innerHTML = kata_baru[x].kanji;
+    document.getElementById('kanji2').innerHTML = kata_baru[x].meaning;
+
+    let element1 = document.getElementById("gambar1");
+    element1.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
+    let element2 = document.getElementById("gambar2");
+    element2.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
+    let element3 = document.getElementById("gambar3");
+    element3.src = "http://bishun.strokeorder.info/characters/" + kata_baru[x].gambar + ".gif";
+
+    document.getElementById('pinyin1').innerHTML = kata_baru[x].pinyin;
+    document.getElementById('pinyin2').innerHTML = kata_baru[x].pinyin;
+
+    document.getElementById('contoh1').innerHTML = kata_baru[x].contoh;
+</script>
